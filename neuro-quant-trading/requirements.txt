@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+nilearn>=0.10
+plotly>=5.18
+imageio>=2.31
+imageio[ffmpeg]
+Pillow>=10.0
+pandas>=2.0
